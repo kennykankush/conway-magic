@@ -1,0 +1,10 @@
+# any line that starts with # is a comment and should be ignored
+# The grid size
+GRID 10 10
+# Starting position X, Y
+START 5 5
+# Data indicates the start of initial configuration
+DATA
+**
+ ***
+*
